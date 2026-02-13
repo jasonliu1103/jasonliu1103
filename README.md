@@ -4,13 +4,13 @@
   </a>
 </p>
 
-I'm a fourth-year **Computer Engineering** student at the **University of Waterloo** focused on **software engineering** 🚀
+I'm a fourth-year **Computer Engineering** student at the **University of Waterloo**
 
-## 🔥 Currently
-- 🛠️ Software Developer Intern @ **Marketing Kitchen** | Scanner System / Integrations
+## Currently...
+- 🛠️ Software Engineer Intern @ **Marketing Kitchen**
 
 ## 🧩 Previously
-- 🚗 Software Engineering Intern @ **Ford Pro** | Notifications Team
+- 🚗 Software Engineer Intern @ **Ford Pro** | Notifications Team
 - 🧪 Software Quality Assurance Engineering Intern @ **AlertDriving**
 - 🏛️ IT QA Assistant @ **Ontario Ministry of Education**
 
@@ -39,9 +39,11 @@ I'm a fourth-year **Computer Engineering** student at the **University of Waterl
 ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-000000?style=for-the-badge&logo=hoppscotch&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📫 Get in touch!
+
+- Email: jzliu@uwaterloo.ca 
+- Linkedin: https://www.linkedin.com/in/jason-liu-422791237/ 
+- Personal Website: https://jasonliu.vercel.app/
+
