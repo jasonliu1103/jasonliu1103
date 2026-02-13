@@ -1,12 +1,11 @@
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=900&color=FFFFFF&vCenter=true&width=720&height=48&lines=Hi+there!+I%27m+Jason+Liu+%F0%9F%91%8B;Computer+Engineering+%40+UWaterloo"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&height=48&lines=Hi+there!+I%27m+Jason+%F0%9F%91%8B;Computer+Engineering+%40+University+of+Waterloo"
       alt="Typing SVG"
     />
   </a>
 </p>
-
 
 I'm a fourth-year **Computer Engineering** student at the **University of Waterloo**
 
