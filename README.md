@@ -56,6 +56,6 @@ I'm a fourth-year **Computer Engineering** student at the **University of Waterl
 ## 📫 Get in touch!
 
 - Email: jzliu@uwaterloo.ca 
-- Linkedin: https://www.linkedin.com/in/jason-liu-422791237/ 
+- Linkedin: https://www.linkedin.com/in/jason-z-liu/ 
 - Personal Website: https://jasonliu.vercel.app/
 
