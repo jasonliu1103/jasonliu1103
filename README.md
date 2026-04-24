@@ -18,13 +18,11 @@
 
 I'm a fourth-year **Computer Engineering** student at the **University of Waterloo**
 
-## Currently...
-- 🛠️ Software Engineer Intern @ **Marketing Kitchen**
-
 ## 🚀 Incoming
 - 🧠 Incoming Delivery Consultant Intern @ **IBM**
 
 ## 🧩 Previously
+- 🛠️ Software Engineer Intern @ **Marketing Kitchen**
 - 🚗 Software Engineer Intern @ **Ford Pro** | Notifications Team
 - 🏛️ IT QA Assistant @ **Ontario Ministry of Education**
 
