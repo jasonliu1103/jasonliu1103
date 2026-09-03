@@ -19,7 +19,7 @@
 I'm a fourth-year **Computer Engineering** student at the **University of Waterloo**
 
 ## Currently...
-- 🧠 Delivery Consultant Intern @ **IBM**
+- 🧠 Software Engineer & Consultant Intern @ **IBM**
 
 ## 🧩 Previously
 - 🛠️ Software Engineer Intern @ **Marketing Kitchen**
